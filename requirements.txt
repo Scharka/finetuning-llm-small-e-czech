@@ -1,0 +1,14 @@
+wheel
+transformers>=4.11
+ipywidgets
+pandas==1.5.3
+scikit-learn
+accelerate
+#pandas-util
+evaluate
+#ray[tune]
+optuna
+
+# one of:
+torch
+#TensorFlow>=2.0
